@@ -3,7 +3,7 @@ module.exports = [
         name: 'index',
         path: 'index/index.jsx',
         title: '首页',
-        keywords: '首页,xxx',
+        keywords: '我是首页',
         description: '这是我们的首页'
     },
     {
